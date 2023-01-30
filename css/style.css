@@ -154,7 +154,7 @@ body {
 .card p {
     font-size: 15px;
     line-height: 1.75;
-    margin-bottom: 1.5rem;
+    margin-bottom: 4rem;
 }
 
 .card button {
@@ -175,7 +175,7 @@ body {
 @media (min-width: 50rem) {
 
     body {
-        padding-block: 6vw;
+        padding-block: 5vw;
     }
 
     .container {
@@ -185,6 +185,6 @@ body {
         }
 
     .card {
-        max-width: 330px;
+        max-width: 305px;
     }
 }
