@@ -174,10 +174,10 @@ body {
     }
 
     .container {
-        max-width: 100%;
         flex-direction: row;
-        flex-basis: 100%;
-    }
+        width: fit-content;
+        margin-inline: auto;
+        }
 
     .card {
         max-width: 330px;
